@@ -12,7 +12,7 @@
 - 🌱 Learning how to build **end-to-end AI systems**, from **data pipelines** and **model deployment** to **LLM orchestration and multi-agent coordination**.  
 - 🧠 I love solving algorithmic problems and working on **AI-driven web and backend applications**.  
 - ⚡ Fun fact: I enjoy breaking complex AI ideas into simple, intuitive explanations.  
-- 🌐 Check out my portfolio at [your-website-link-here](https://your-website-link-here.com)
+- 🌐 Check out my portfolio at [your-website-link-here](https://rohitiitk.github.io/Portfolio/)
 
 <br>
 
